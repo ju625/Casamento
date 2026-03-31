@@ -1,2 +1,2 @@
 # Casamento
-Lista para obsorções de presentes.
+Lista de presentes.
